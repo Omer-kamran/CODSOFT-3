@@ -1,0 +1,35 @@
+body{
+    background-color: antiquewhite;
+  
+}
+
+header{
+    text-align: center;
+}
+
+footer{
+    text-align: center;
+    background-color: rgb(95, 95, 62);
+}
+
+hr{
+	border-style: none;
+	border-top-style: dotted;
+	width: 4%;
+	border-color:#726E6E;
+	border-width: 5px;
+	margin: 100px auto;
+}
+
+h1{
+	font-size: 4.625rem;
+	margin: 50px auto 0;
+	font-family: 'Sacramento', cursive;
+}
+h2{
+    font-family: 'Sacramento', cursive;
+}
+
+p{
+	line-height: 2;
+}
